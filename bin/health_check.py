@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh or bash 
+#!/usr/bin/env python3
 #by With Phoenix 
 #
 #Does a system health check
